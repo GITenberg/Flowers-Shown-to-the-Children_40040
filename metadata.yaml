@@ -1,0 +1,34 @@
+_repo: Flowers-Shown-to-the-Children_40040
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kelman, Janet Harvey
+    alias: Harvey Kelman, Janet
+    gutenberg_agent_id: '40385'
+    url: http://www.gutenberg.org/2009/agents/40385
+covers:
+- cover_type: archival
+  image_path: 40040-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Smith, C. E.
+    gutenberg_agent_id: '40384'
+    url: http://www.gutenberg.org/2009/agents/40384
+  editor:
+    agent_name: Chisholm, Louey
+    gutenberg_agent_id: '2485'
+    url: http://www.gutenberg.org/2009/agents/2485
+description: ''
+gutenberg_issued: '2012-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Plants -- Juvenile literature'
+title: Flowers, Shown to the Children
+url: http://www.gutenberg.org/ebooks/40040
